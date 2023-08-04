@@ -8,7 +8,7 @@ Welcome to my Competitive Programming Problems repository! This repository conta
 - [Problem Categories](#problem-categories)
 - [Solutions](#solutions)
 - [Contributing](#contributing)
-- [License](#license)
+<!-- - [License](#license) -->
 
 ## Introduction
 
@@ -18,19 +18,17 @@ Feel free to explore the different problem categories and check out the solution
 
 ## Problem Categories
 
-The problems in this repository are categorized based on their topics or difficulty levels. Here are some of the categories you'll find:
+The problems in this repository are categorized based on the programming language.
 
-- Array and Strings
-- Linked Lists
-- Trees and Graphs
-- Dynamic Programming
-- Sorting and Searching
+For Instance:
+
+- Problems that are solved using Cpp programming language are inside the **Cpp** folder.
 
 ## Solutions
 
-In this section, you can find solutions to the problems organized by their categories. Each problem's folder contains the following files:
+In this section, you can find solutions to the problems organized by the problem's name. Each problem's folder contains the following files:
 
-- `problem.md`: A description of the problem statement, constraints, and examples.
+- `problem.md`: A description of the problem statement.
 - `solution.cpp` (or other language extensions): My solution to the problem in a well-commented code.
 
 Feel free to open issues or pull requests if you spot any mistakes or have better solutions to the problems. Constructive feedback is always welcome! 😀
@@ -43,7 +41,7 @@ Contributions are always welcome! If you have solved new problems or improved ex
 2. Create a new branch for your changes.
 
 ```
-Note: Whichever language you are using to solve the problem, name the branch is that manner.
+Note: Whichever language you are using to solve the problem, name the branch in that manner.
 
 For example: If you are using python, then your branch name should be python/{problem-name} ==> (python/merge-strings)
 ```
