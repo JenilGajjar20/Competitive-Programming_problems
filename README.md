@@ -52,8 +52,8 @@ For example: If you are using python, then your branch name should be python/{pr
 4. Ensure your code and explanations are well-documented.
 5. Create a pull request, and I'll review it as soon as possible.
 
-## License
+<!-- ## License
 
 This repository is licensed under the [MIT License](LICENSE). You are free to use the code and solutions here, but please refer to the License file for more details.
 
-Happy coding! 👨‍💻
+Happy coding! 👨‍💻 -->
