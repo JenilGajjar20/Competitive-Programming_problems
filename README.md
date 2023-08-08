@@ -31,7 +31,9 @@ In this section, you can find solutions to the problems organized by the problem
 - `problem.md`: A description of the problem statement.
 - `solution.cpp` (or other language extensions): My solution to the problem in a well-commented code.
 
-Feel free to open issues or pull requests if you spot any mistakes or have better solutions to the problems. Constructive feedback is always welcome! 😀
+You should create a folder by the name of the programming language you are using.
+
+**Note**: Feel free to open issues or pull requests if you spot any mistakes or have better solutions to the problems. Constructive feedback is always welcome! 😀
 
 ## Contributing 🤝
 
@@ -43,7 +45,7 @@ Contributions are always welcome! If you have solved new problems or improved ex
 ```
 Note: Whichever language you are using to solve the problem, name the branch in that manner.
 
-For example: If you are using python, then your branch name should be python/{problem-name} ==> (python/merge-strings)
+For example: If you are using python, then your branch name should be problem/python
 ```
 
 3. Make your modifications and add your solutions.
