@@ -1,6 +1,6 @@
 # Competitive Programming Problems
 
-Welcome to my Competitive Programming Problems repository! This repository contains a collection of problems from platforms like LeetCode and HackerRank that I have personally solved.
+Welcome to my Competitive Programming Problems repository! This repository contains a collection of problems from platforms like **LeetCode** and **HackerRank** that I have personally solved.
 
 ## Table of Contents 📝
 
