@@ -7,3 +7,5 @@ Find two lines that together with the x-axis form a container, such that the con
 Return the maximum amount of water a container can store.
 
 **Notice** that you may not slant the container.
+
+<img src="../../images/container-with-most-water.jpg" alt="sudoku-board" />
