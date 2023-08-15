@@ -5,14 +5,17 @@ using namespace std;
 
 string longestCommonPrefix(vector<string> &strs)
 {
+    // If array is empty
     if (strs.empty())
         return "";
 
     int minLength = INT_MAX;
+
+    // Iterate upto the length of the shortest string to find the common prefix.
     for (const string &str : strs)
         minLength = min(minLength, static_cast<int>(str.length()));
 
-    string commonPrefix = "";
+        string commonPrefix = "";
     for (int i = 0; i < minLength; i++)
     {
         char currentChar = strs[0][i];
