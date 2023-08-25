@@ -5,26 +5,23 @@ using namespace std;
 
 int migratoryBirds(vector<int> &arr)
 {
-    // map<int, int> birdCount;
+    int maxCount = 0;
+    int mostFrequentBirds = 1;
+    map<int, int> birdCount;
 
-    // for (int bird : arr)
-    //     birdCount[bird]++;
+    for (int bird : arr)
+        birdCount[bird]++;
 
-    // int maxCount = 0;
-    // int mostFrequentBirds = 1;
+    for (auto &entry : birdCount)
+    {
+        if (entry.second > maxCount)
+        {
+            maxCount = entry.second;
+            mostFrequentBirds = entry.first;
+        }
+    }
 
-    // for (const auto &entry : birdCount)
-    // {
-    //     cout << "Entry First: " << entry.first << endl;
-    //     cout << "Entry second: " << entry.second << endl;
-    //     if (entry.second > maxCount)
-    //     {
-    //         maxCount = entry.second;
-    //         mostFrequentBirds = entry.first;
-    //     }
-    // }
-
-    // return mostFrequentBirds;
+    return mostFrequentBirds;
 }
 
 int main()
