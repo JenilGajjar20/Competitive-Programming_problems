@@ -54,6 +54,7 @@
         "deque": "cpp",
         "stack": "cpp",
         "unordered_map": "cpp",
-        "numeric": "cpp"
+        "numeric": "cpp",
+        "xtree": "cpp"
     }
 }
