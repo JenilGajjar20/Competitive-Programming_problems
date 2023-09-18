@@ -3,12 +3,11 @@ using namespace std;
 
 int findDigits(int n)
 {
-    int count;
-    int number = n;
+    int count = 0;
     while (n > 0)
     {
         int d = n % 10;
-        if (d != 0 && number % d == 0)
+        if (d != 0 && n % d == 0)
             count++;
 
         n /= 10;
