@@ -1,33 +1,18 @@
 #include <iostream>
 #include <vector>
+#include <algorithm>
 #include <climits>
 using namespace std;
 
-string longestCommonPrefix(vector<string> &strs)
-{
-    // If array is empty
-    if (strs.empty())
-        return "";
-
-    int minLength = INT_MAX;
-
-    // Iterate upto the length of the shortest string to find the common prefix.
-    for (const string &str : strs)
-        minLength = min(minLength, static_cast<int>(str.length()));
-
-        string commonPrefix = "";
-    for (int i = 0; i < minLength; i++)
-    {
-        char currentChar = strs[0][i];
-        for (int j = 1; j < strs.size(); j++)
-        {
-            if (strs[j][i] != currentChar)
-                return commonPrefix;
+string longestCommonPrefix(vector<string>& strs) {
+    sort(strs.begin(), strs.end());
+    string ans;
+    for(int i = 0; i < min(strs[0].size(), strs[strs.size() - 1].size()); i++) {
+            if(strs[0][i] == strs[strs.size() - 1][i]) ans.push_back(strs[0][i]);
+            else 
+                break;
         }
-        commonPrefix += currentChar;
-    }
-
-    return commonPrefix;
+    return ans;
 }
 
 int main()
