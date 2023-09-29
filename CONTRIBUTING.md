@@ -59,6 +59,8 @@ When adding solutions, please adhere to these standards:
 - Include any relevant test cases and expected outputs in the comments.
 - Use descriptive variable and function names.
 
+**Note**: If you have a different solutions to a single problem or a problem already solved, please create a new file with a name like **solution-2.cpp**, **solution-3.cpp**, and so on.
+
 ## Opening Issues
 
 If you come across any issues with the existing solutions, have suggestions for improvements, or want to request solutions for specific problems, you can open an issue. Make sure to include a clear and concise description of the problem or suggestion.
