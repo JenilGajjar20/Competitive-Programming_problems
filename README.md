@@ -2,13 +2,7 @@
 
 Welcome to my Competitive Programming Problems repository! This repository contains a collection of problems from platforms like **LeetCode** and **HackerRank** that I have personally solved.
 
-## Table of Contents 📝
-
-- [Introduction](#introduction)
-- [Problem Categories](#problem-categories)
-- [Solutions](#solutions)
-- [Contributing](#contributing)
-<!-- - [License](#license) -->
+- This repository is a part hacktoberfest.
 
 ## Introduction 😀
 
@@ -35,25 +29,19 @@ You should create a folder by the name of the programming language you are using
 
 **Note**: Feel free to open issues or pull requests if you spot any mistakes or have better solutions to the problems. Constructive feedback is always welcome! 😀
 
-## Contributing 🤝
+## Hacktoberfest Contribution
 
-Contributions are always welcome! If you have solved new problems or improved existing solutions, follow these steps:
+🎉 This repository is participating in [**Hacktoberfest**](https://hacktoberfest.com/), a month-long celebration of open source software! 🎉
 
-1. Fork the repository.
-2. Create a new branch for your changes.
+Hacktoberfest is an excellent opportunity for developers to contribute to open source projects and earn cool swag in the process.
 
-```
-Note: Whichever language you are using to solve the problem, name the branch in that manner.
+To make your contributions count toward Hacktoberfest, please follow these guidelines:
 
-For example: If you are using python, then your branch name should be problem/python
-```
+- Ensure that your pull requests (PRs) adhere to the Hacktoberfest rules.
+- Only submit meaningful contributions that add value to the repository. Quality over quantity!
+- PRs with minor changes such as fixing a typo or formatting will be reviewed carefully. However, multiple small, low-effort PRs may not be accepted.
+- Engage in meaningful discussions and provide constructive feedback on issues and PRs.
 
-3. Make your modifications and add your solutions.
-4. Ensure your code and explanations are well-documented.
-5. Create a pull request, and I'll review it as soon as possible.
+By contributing to this repository during Hacktoberfest, you not only help improve the content but also become eligible for exciting rewards. Happy hacking! 🚀
 
-<!-- ## License
-
-This repository is licensed under the [MIT License](LICENSE). You are free to use the code and solutions here, but please refer to the License file for more details. -->
-
-Happy coding! 👨‍💻
+Here is the contributing guidelines: [Contributing Guideline](https://github.com/JenilGajjar20/Competitive-Programming_problems/blob/master/CONTRIBUTING.md)
