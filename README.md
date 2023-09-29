@@ -2,8 +2,6 @@
 
 Welcome to my Competitive Programming Problems repository! This repository contains a collection of problems from platforms like **LeetCode** and **HackerRank** that I have personally solved.
 
-- This repository is a part hacktoberfest.
-
 ## Introduction 😀
 
 Competitive programming is a great way to improve **problem-solving skills** and **algorithmic thinking**. This repository serves as both a personal log of my problem-solving journey and a resource for others who are interested in learning from my solutions.
