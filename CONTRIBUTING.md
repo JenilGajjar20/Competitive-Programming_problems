@@ -82,8 +82,6 @@ git push origin your-branch-name
 - Your PR will be reviewed by the repository maintainer. If any changes or improvements are needed, feedback will be provided.
 - Once your PR is approved, it will be merged into the main repository. Congratulations, you've successfully contributed! 🥳
 
-**Note**: Don't forget to add **hacktoberfest** label if you are participating in it.
-
 ## Feedback and Discussions
 
 I encourage open discussions and feedback. If you have ideas for improving this repository, want to discuss problem-solving strategies, or have any questions, feel free to start a discussion in the repository's Discussions section. 😀
