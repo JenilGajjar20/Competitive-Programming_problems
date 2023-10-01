@@ -29,7 +29,8 @@ Output Format
 
 ans1
 ans2
-ans3 .
+ans3 
+.
 .
 ansT
 
@@ -39,6 +40,7 @@ Sample Input 0
 5 3
 7 4
 8 10
+
 Sample Output 0
 
 13
