@@ -1,3 +1,23 @@
+// Explanation of the code:
+
+// 1.The code solves a problem related to coloring a tree with two colors (0 and 1) in a way that maximizes the value of certain paths in the tree.
+
+// 2.It uses dynamic programming and tree traversal to calculate the maximum possible value of any coloring of the tree.
+
+// 3.The merge function combines information from children nodes into the current node to calculate the maximum value.
+
+// 4.The dfs function performs a depth-first search to process the tree and calculate the values.
+
+// 5.The solve function reads input, processes the tree, and calculates the answer for each test case.
+
+// 6.The main function reads the number of test cases and calls the solve function for each test case.
+
+// 7.This code effectively calculates the maximum possible value of any coloring of the given tree.
+
+
+
+
+
 #include<bits/stdc++.h>
 #define rep(i,a,b) for(int i=(a);i<=(b);i++)
 #define per(i,a,b) for(int i=(a);i>=(b);i--)
