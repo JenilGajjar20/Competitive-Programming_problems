@@ -1,3 +1,35 @@
+//logic
+// Here's the logic used to solve the problem:
+
+// 1.Matrix Exponentiation: The core of the solution lies in matrix exponentiation. A matrix A is defined where A[i][j] represents the number of ways to obtain a sum of j using a k-sided dice, given that the last roll was i+1. The matrix A is raised to the power of (N - k), where N is the target sum and k is the number of sides on the dice.
+
+// 2.Matrix Multiplication: To calculate the matrix exponentiation efficiently, a function matrix_multiply is defined. This function multiplies two matrices A and B and stores the result back in matrix A.
+
+// 3.Matrix Initialization: The matrix A is initialized based on the rules of the dice. For example, if k = 4, the matrix may look like this:
+
+// 4.
+// A = | 1  1  1  1 |
+//     | 1  0  0  0 |
+//     | 0  1  0  0 |
+//     | 0  0  1  0 |
+// This matrix represents the ways to obtain each possible sum using a 4-sided dice.
+
+// 5.Recursive Function: The function func(k) is defined to calculate the number of ways to obtain a sum of k using the k-sided dice. This is done recursively, considering all possible rolls of the dice.
+
+// 6.Main Loop: The main loop reads the number of test cases and for each test case, it reads N (the target sum) and k (the number of sides on the dice).
+
+// 7.Precompute Values: The values for the array v are precomputed based on the func(k) function for all possible rolls from 1 to k.
+
+// 8.Special Case Handling: If N is less than or equal to k, the answer is simply v[k - N], because there's no need for matrix exponentiation in this case.
+
+// 9.Matrix Exponentiation: If N is greater than k, matrix exponentiation is used to calculate the ways to obtain the sum of N - k using the k-sided dice.
+
+// 10.Matrix Multiplication: The result of matrix exponentiation is multiplied with the precomputed values v to obtain the final answer.
+
+// 11.Modulo Operation: The final answer is taken modulo mod to ensure it doesn't exceed the specified value.
+
+// In summary, this solution uses matrix exponentiation and dynamic programming to efficiently calculate the number of ways to obtain a given sum using a k-sided dice, taking into account the modulo constraint. The use of matrix multiplication optimizes the calculation process.
+
 #include <iostream>
 using namespace std;
 
