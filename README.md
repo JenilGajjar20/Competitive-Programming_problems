@@ -43,3 +43,11 @@ To make your contributions count toward Hacktoberfest, please follow these guide
 By contributing to this repository during Hacktoberfest, you not only help improve the content but also become eligible for exciting rewards. Happy hacking! 🚀
 
 Here is the contributing guidelines: [Contributing Guideline](https://github.com/JenilGajjar20/Competitive-Programming_problems/blob/master/CONTRIBUTING.md)
+
+## Contributors ✨
+
+<a href="https://github.com/JenilGajjar20/Competitive-Programming_problems/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=JenilGajjar20/Competitive-Programming_problems" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
