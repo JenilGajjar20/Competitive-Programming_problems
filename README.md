@@ -40,14 +40,16 @@ To make your contributions count toward Hacktoberfest, please follow these guide
 - PRs with minor changes such as fixing a typo or formatting will be reviewed carefully. However, multiple small, low-effort PRs may not be accepted.
 - Engage in meaningful discussions and provide constructive feedback on issues and PRs.
 
-By contributing to this repository during Hacktoberfest, you not only help improve the content but also become eligible for exciting rewards. Happy hacking! 🚀
+By contributing to this repository during Hacktoberfest, you not only help improve the content but also become eligible for exciting rewards.
 
-Here is the contributing guidelines: [Contributing Guideline](https://github.com/JenilGajjar20/Competitive-Programming_problems/blob/master/CONTRIBUTING.md)
+Happy hacking! 🚀
 
-## Contributors ✨
+Here is the contributing guidelines: [Contributing Guidelines](https://github.com/JenilGajjar20/Competitive-Programming_problems/blob/master/CONTRIBUTING.md)
+
+<!-- ## Contributors ✨
 
 <a href="https://github.com/JenilGajjar20/Competitive-Programming_problems/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=JenilGajjar20/Competitive-Programming_problems" />
 </a>
 
-Made with [contrib.rocks](https://contrib.rocks).
+Made with [contrib.rocks](https://contrib.rocks). -->
