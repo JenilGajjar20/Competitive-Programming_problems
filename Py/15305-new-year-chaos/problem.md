@@ -25,3 +25,20 @@ Each of the next `t` pairs of lines are as follows:
 ### Constraints
 - 1 <= t <= 10
 - 1 <= n <= 10^5
+
+### Sample Input
+```
+STDIN       Function
+-----       --------
+2           t = 2
+5           n = 5
+2 1 5 3 4   q = [2, 1, 5, 3, 4]
+5           n = 5
+2 5 1 3 4   q = [2, 5, 1, 3, 4]
+```
+
+### Sample Output
+```
+3
+Too chaotic
+```
