@@ -1,55 +1,65 @@
 # Competitive Programming Problems
 
-Welcome to my Competitive Programming Problems repository! This repository contains a collection of problems from platforms like **LeetCode** and **HackerRank** that I have personally solved.
+Welcome To Competitive Programming Problems Repository! It Contains A Collection Of Problems From Platforms Like **CodeChef**, **LeetCode** and **HackerRank**, Which Are Solved By Our Contributors ! Also This Repository Is A Part Of **Hacktoberfest 2023**.
 
-## Introduction 😀
+## Hacktoberfest Contribution 🎉
 
-Competitive programming is a great way to improve **problem-solving skills** and **algorithmic thinking**. This repository serves as both a personal log of my problem-solving journey and a resource for others who are interested in learning from my solutions.
+This Repository Is Participating In [**Hacktoberfest**](https://hacktoberfest.com/), A Month-Long Celebration Of Open Source Software!
 
-Feel free to explore the different problem categories and check out the solutions provided. I hope you find them helpful and educational.
+Hacktoberfest Is An Excellent Opportunity For Developers To Contribute To Open Source Projects And Earn Cool Swags In The Process.
 
-## Problem Categories
+To Make Your Contributions Count Toward Hacktoberfest, Please Follow These Guidelines:-
 
-The problems in this repository are categorized based on the programming language.
+- Ensure That Your Pull Requests (PRs) Adhere To The Hacktoberfest Rules.
+- Only Submit Meaningful Contributions That Add Value To The Repository. Quality Over Quantity!
+- PRs With Minor Changes Such As Fixing A Typo Or Formatting Will Be Reviewed Carefully. However, Multiple Small, Low-Effort PRs May Not Be Accepted.
+- Engage In Meaningful Discussions And Provide Constructive Feedback On Issues And PRs.
 
-For Instance:
+By Contributing To This Repository During Hacktoberfest, You Not Only Help Improve The Content But Also Become Eligible For Exciting Rewards.
 
-- Problems that are solved using Cpp programming language are inside the **Cpp** folder.
+Here Is The Contributing Guidelines: [Contributing Guidelines](https://github.com/JenilGajjar20/Competitive-Programming_problems/blob/master/CONTRIBUTING.md)
 
-## Solutions 💡
+Happy Hacktober! 🚀
 
-In this section, you can find solutions to the problems organized by the problem's name. Each problem's folder contains the following files:
+<p align="center">
+    <img src="./images/logo.png" width="450px" height="200px">
+</p>
 
-- `problem.md`: A description of the problem statement.
-- `solution.cpp` (or other language extensions): My solution to the problem in a well-commented code.
+## Introduction 😉
 
-You should create a folder by the name of the programming language you are using.
+Competitive Programming Is A Great Way To Improve **Problem-Solving Skills** And **Algorithmic Thinking**. This Repository Serves As Both A Personal Log Of My Problem-Solving Journey And A Resource For Others Who Are Interested In Learning From My Solutions.
 
-**Note**: Feel free to open issues or pull requests if you spot any mistakes or have better solutions to the problems. Constructive feedback is always welcome! 😀
+Feel Free To Explore The Different Problem Categories And Check Out The Solutions Provided. I Hope You Find Them Helpful And Educational.
 
-## Hacktoberfest Contribution
+## Problem Categories 📚
 
-🎉 This repository is participating in [**Hacktoberfest**](https://hacktoberfest.com/), a month-long celebration of open source software! 🎉
+The Problems In This Repository Are Categorized Based On The Following Programming Language :-
 
-Hacktoberfest is an excellent opportunity for developers to contribute to open source projects and earn cool swag in the process.
+| Sr. No. | Languages Added |
+| ------------- | ------------- |
+| 1  | C++  | 
+| 2  | Java |
+| 3  | Python |
+| 4  | JavaScript |
 
-To make your contributions count toward Hacktoberfest, please follow these guidelines:
+## Solutions 📝
 
-- Ensure that your pull requests (PRs) adhere to the Hacktoberfest rules.
-- Only submit meaningful contributions that add value to the repository. Quality over quantity!
-- PRs with minor changes such as fixing a typo or formatting will be reviewed carefully. However, multiple small, low-effort PRs may not be accepted.
-- Engage in meaningful discussions and provide constructive feedback on issues and PRs.
+In This Section, You Can Find Solutions To The Problems Organized By The Problem's Name. Each Problem's Folder Contains The Following Files:-
 
-By contributing to this repository during Hacktoberfest, you not only help improve the content but also become eligible for exciting rewards.
+[Suppose You Are Working In C++ Language]
 
-Happy hacking! 🚀
+- `problem.md`: A Description Of The Problem Statement.
+- `solution.cpp`: My Solution To The Problem In A Well-Commented Code.
 
-Here is the contributing guidelines: [Contributing Guidelines](https://github.com/JenilGajjar20/Competitive-Programming_problems/blob/master/CONTRIBUTING.md)
+**You Should Create A Folder By The Name Of The Programming Language You Are Using.**
 
-<!-- ## Contributors ✨
+**Note**: Feel Free To Open Issues Or Pull Requests If You Spot Any Mistakes Or Have Better Solutions To The Problems. Constructive Feedback Is Always Welcome!
 
-<a href="https://github.com/JenilGajjar20/Competitive-Programming_problems/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=JenilGajjar20/Competitive-Programming_problems" />
-</a>
+## Contributors ✨
 
-Made with [contrib.rocks](https://contrib.rocks). -->
+<p align="center">
+    <a href="https://github.com/JenilGajjar20/Competitive-Programming_problems/graphs/contributors">
+        <img src="https://contrib.rocks/image?repo=JenilGajjar20/Competitive-Programming_problems" />
+    </a>    
+</p>
+
