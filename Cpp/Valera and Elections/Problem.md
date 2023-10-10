@@ -1,4 +1,5 @@
 C. Valera and Elections
+
 The city Valera lives in is going to hold elections to the city Parliament.
 
 The city has n districts and n - 1 bidirectional roads. We know that from any district there is a path along the roads to any other district. Let's enumerate all districts in some way by integers from 1 to n, inclusive. Furthermore, for each road the residents decided if it is the problem road or not. A problem road is a road that needs to be repaired.
