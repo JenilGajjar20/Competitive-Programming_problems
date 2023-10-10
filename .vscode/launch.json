@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/arion/Competitive-Programming_problems/Cpp/add-binary",
-      "program": "c:/Users/arion/Competitive-Programming_problems/Cpp/add-binary/build/Debug/outDebug",
+      "cwd": "c:/Users/arion/Competitive-Programming_problems/Cpp/trapping-rain-water-cpp",
+      "program": "c:/Users/arion/Competitive-Programming_problems/Cpp/trapping-rain-water-cpp/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
