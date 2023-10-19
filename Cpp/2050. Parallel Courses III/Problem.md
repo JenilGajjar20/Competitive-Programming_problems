@@ -34,12 +34,20 @@ Thus, the minimum time needed to complete all the courses is 7 + 5 = 12 months.
 
 Constraints:
 
-1 <= n <= 5 * 104
+1 <= n <= 5 * 10^4
+
 0 <= relations.length <= min(n * (n - 1) / 2, 5 * 104)
+
 relations[j].length == 2
+
 1 <= prevCoursej, nextCoursej <= n
+
 prevCoursej != nextCoursej
+
 All the pairs [prevCoursej, nextCoursej] are unique.
+
 time.length == n
-1 <= time[i] <= 104
+
+1 <= time[i] <= 10^4
+
 The given graph is a directed acyclic graph.
