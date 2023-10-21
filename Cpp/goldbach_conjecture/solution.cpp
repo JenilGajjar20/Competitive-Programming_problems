@@ -9,8 +9,11 @@ bool isPrime(int n);
 int main()
 {
     // test cases
+    //result: 5 and 11
     goldbach_conj(16);
+    //result: 167 and 179
     goldbach_conj(346);
+    //result: not an even number that is greater than 2!
     goldbach_conj(55);
     return 0;
 }
