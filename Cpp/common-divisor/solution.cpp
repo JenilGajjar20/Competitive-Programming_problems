@@ -1,22 +1,29 @@
 #include <iostream>
+#include <string>
 #include <algorithm>
+
 using namespace std;
 
-void gcdOfStrings(string s1, string s2)
-{
-    int n = s1.size();
-    int m = s2.size();
+string gcdOfStrings(string str1, string str2) {
+    if (str1 + str2 != str2 + str1) {
+        return "";
+    }
 
-    if (s1 + s2 != s2 + s1)
-        return;
-
-    cout << "String is: " << s1.substr(0, std::__gcd(n, m));
+    int gcd_length = __gcd(str1.length(), str2.length());
+    return str1.substr(0, gcd_length);
 }
 
-int main()
-{
+int main() {
     string str1 = "ABCABC";
     string str2 = "ABC";
-    gcdOfStrings(str1, str2);
+
+    string result = gcdOfStrings(str1, str2);
+
+    if (result.empty()) {
+        cout << "No common divisor found." << endl;
+    } else {
+        cout << "The largest common divisor is: " << result << endl;
+    }
+
     return 0;
 }
