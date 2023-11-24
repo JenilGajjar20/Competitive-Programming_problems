@@ -1,4 +1,4 @@
-## Jumping on the Clouds
+## Jumping on the Clouds (Problem - 1)
 
 A child is playing a cloud hopping game. In this game, there are sequentially numbered clouds that can be thunderheads or cumulus clouds. The character must jump from cloud to cloud until it reaches the start again.
 
