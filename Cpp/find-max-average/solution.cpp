@@ -4,7 +4,7 @@ using namespace std;
 
 double findMaxAverage(vector<int> &nums, int k)
 {
-    int maxSum = 0, currSum = 0;
+    double maxSum = 0, currSum = 0;
 
     int n = nums.size();
 
@@ -13,10 +13,13 @@ double findMaxAverage(vector<int> &nums, int k)
 
     maxSum = currSum;
 
-    // for (int i = k; i < n; i++)
-    // {
-    //     currSum += nums[i] - nums[i - k];
-    // }
+    for (int i = k; i < n; i++)
+    {
+        currSum += nums[i] - nums[i - k];
+        maxSum = max(maxSum, currSum);
+    }
+
+    return (maxSum / k);
 }
 
 int main()
@@ -37,7 +40,7 @@ int main()
     cin >> k;
 
     double result = findMaxAverage(nums, k);
-    // cout << "Result: " << result << endl;
+    cout << "Result: " << result << endl;
 
     return 0;
 }
