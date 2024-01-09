@@ -4,6 +4,7 @@
         "vector": "cpp",
         "*.tcc": "cpp",
         "forward_list": "cpp",
-        "list": "cpp"
+        "list": "cpp",
+        "ostream": "cpp"
     }
 }
