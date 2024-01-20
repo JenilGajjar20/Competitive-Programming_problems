@@ -5,6 +5,7 @@
         "*.tcc": "cpp",
         "forward_list": "cpp",
         "list": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "functional": "cpp"
     }
 }
