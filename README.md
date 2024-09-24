@@ -1,16 +1,16 @@
 # Competitive Programming Problems
 
-Welcome To Competitive Programming Problems Repository! It Contains A Collection Of Problems From Platforms Like **CodeChef**, **LeetCode** and **HackerRank**, Which Are Solved By Our Contributors ! This Repository Was A Part Of **Hacktoberfest 2023**.
+Welcome To Competitive Programming Problems Repository! It Contains A Collection Of Problems From Platforms Like **CodeChef**, **LeetCode** and **HackerRank**, Which Have Been Solved By Our Amazing Contributors ! Originally Launched As Part Of **Hacktoberfest 2023**, I Am Excited To Participate Again In **Hacktoberfest 2024**.
 
-## Hacktoberfest Contribution 🎉
+## Hacktoberfest 2024 Contribution 🎉
 
-This repository participated in [**Hacktoberfest 2023**](https://hacktoberfest.com/), a month-long celebration of open-source software!
+This repository will be participating in [**Hacktoberfest 2024**](https://hacktoberfest.com/), a global month-long celebration of open-source software that promotes meaningful contributions from developers all around the world!
 
-Hacktoberfest was an excellent opportunity for developers to contribute to open-source projects.
+Whether you are an experienced coder or just starting your open-source journey, your contributions are what makes this repository a success. I am eager to continue building a strong collection of solutions, so feel free to jump in, contribute, and become part of the open-source community!
 
-To all our contributors, a big thank you! Your contributions have made this repository a valuable resource for programmers around the world. 🙌
+To all our contributors from **Hacktoberfest 2023**, thank you so much for your incredible work! Your efforts have made this repository a valuable resource for developers. 🙌
 
-As we move forward, we'd like to share our appreciation and encourage everyone to keep the spirit of open source alive. Feel free to explore the problems, provide feedback, and share your insights with the community.
+For **Hacktoberfest 2024**, I am excited to welcome new contributors and look forward to your problem-solving magics 🚀. Let's continue making this repository a go-to place for competitive programming enthusiasts.
 
 Here Is The Contributing Guidelines: [Contributing Guidelines](https://github.com/JenilGajjar20/Competitive-Programming_problems/blob/master/CONTRIBUTING.md)
 
