@@ -8,19 +8,21 @@ Given an integer array `nums` representing the amount of money of each house, re
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-
 <pre>
 <strong>Input: </strong> nums = [2,3,2]
 <strong>Output:</strong> 3
 <strong>Explanation:</strong> You cannot rob house 1 (money = 2) and then rob house 3 (money = 2), 
 because they are adjacent houses.
 </pre>
+
 <p><strong class="example">Example 2:</strong></p>
 <pre>
 <pre><strong>Input:</strong> `nums = [1,2,3,1]`  
 <strong>Output:</strong> 4
-**Explanation:** Rob house 1 (money = 1) and then rob house 3 (money = 3). Total amount you can rob = 1 + 3 = 4.
+<strong>Explanation:</strong> Rob house 1 (money = 1) and then rob house 3 (money = 3). 
+Total amount you can rob = 1 + 3 = 4.
 </pre>
+  
 <p><strong class="example">Example 3:</strong></p>
 <pre>
 <pre><strong>Input:</strong> nums = [1,2,3]
