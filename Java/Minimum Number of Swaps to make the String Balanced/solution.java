@@ -1,7 +1,7 @@
 // the URL of the Problem:- https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/
 
 import java.util.*;
-public class Problem1963 {
+public class solution {
     static Scanner obj = new Scanner(System.in);
 
     public static void main(String args[]) {

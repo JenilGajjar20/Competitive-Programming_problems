@@ -1,7 +1,7 @@
 // Problem URL:- https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
 
 import java.util.*;
-public class Problem921 {
+public class solution {
     static Scanner obj=new Scanner(System.in);
 
     public static void main(String args[]){
