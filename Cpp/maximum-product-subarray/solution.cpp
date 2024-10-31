@@ -30,7 +30,6 @@
 
 class Solution {
 public:
-    // Function to calculate the maximum product subarray
     int maxProduct(vector<int>& nums) {
         int n = nums.size(); // Get the size of the input array
         vector<vector<int>> data; // 2D vector to hold subarrays split by zeros
@@ -71,7 +70,7 @@ public:
                         first_neg = i; // Record the first negative index
                     }
                     last_neg = i; // Update the last negative index
-                    negs++; // Increment the count of negative numbers
+                    negs++; 
                 }
             }
             
@@ -79,8 +78,9 @@ public:
             ans = max(ans, prods[N - 1]); // Compare with the product of the entire subarray
             
             // If there's an odd number of negative numbers, consider removing one
+            // If even, the maximum product is already calculated
             if((negs & 1) == 0) {
-                continue; // If even, the maximum product is already calculated
+                continue;
             }
             
             // Consider removing the last negative number
@@ -92,6 +92,6 @@ public:
                 ans = max(ans, prods[N - 1] / prods[first_neg]);
             }
         }
-        return ans; // Return the maximum product found
+        return ans;
     }
 };
