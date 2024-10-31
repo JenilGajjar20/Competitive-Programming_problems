@@ -10,16 +10,16 @@ public:
         
         // Try placing a queen in each column of the current row
         for (int c = 0; c < n; c++) {
-            bool poss = true; // Flag to check if placing a queen at (r, c) is possible
+            bool poss = true; 
             
             // Check against previously placed queens to see if (r, c) is a valid position
             for (auto& p : queens) {
-                int xr = p.first;   // Row of the placed queen
-                int xc = p.second;  // Column of the placed queen
+                int xr = p.first;
+                int xc = p.second;
                 
                 // A queen can attack if in the same row, column, or diagonal
                 if (xr == r || xc == c || abs(xr - r) == abs(xc - c)) {
-                    poss = false;  // Set to false if a conflict is detected
+                    poss = false; 
                     break;
                 }
             }
@@ -42,10 +42,10 @@ public:
 
     // Main function to initiate the N-Queens solution finding
     vector<vector<string>> solveNQueens(int n) {
-        vector<vector<string>> out;         // Stores all valid board configurations
-        vector<string> ve(n, string(n, '.')); // Initialize board with empty cells
-        vector<pair<int, int>> queens;      // Stores positions of placed queens
-        rec(0, n, ve, queens, out);         // Start recursion from the first row
-        return out;                         // Return all valid solutions
+        vector<vector<string>> out;   
+        vector<string> ve(n, string(n, '.'));
+        vector<pair<int, int>> queens;
+        rec(0, n, ve, queens, out);
+        return out;
     }
 };
