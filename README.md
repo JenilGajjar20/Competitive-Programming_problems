@@ -1,16 +1,16 @@
 # Competitive Programming Problems
 
-Welcome To Competitive Programming Problems Repository! It Contains A Collection Of Problems From Platforms Like **CodeChef**, **LeetCode** and **HackerRank**, Which Have Been Solved By Our Amazing Contributors ! Originally Launched As Part Of **Hacktoberfest 2023**, I Am Excited To Participate Again In **Hacktoberfest 2024**.
+Welcome To Competitive Programming Problems Repository! It Contains A Collection Of Problems From Platforms Like **CodeChef**, **LeetCode** and **HackerRank**, Which Have Been Solved By Our Amazing Contributors ! Originally Launched As Part Of **Hacktoberfest 2023**, This Repository Was Also An Active Participant In **Hacktoberfest 2024**. I Appreciate All The Contributions That Have Enriched Our Collection And Supported The Community Of Problem Solvers!
 
 ## Hacktoberfest 2024 Contribution 🎉
 
-This repository will be participating in [**Hacktoberfest 2024**](https://hacktoberfest.com/), a global month-long celebration of open-source software that promotes meaningful contributions from developers all around the world!
+Thank you for being part of [**Hacktoberfest 2024**](https://hacktoberfest.com/), a global month-long celebration of open-source software that promotes meaningful contributions from developers all around the world!
 
-Whether you are an experienced coder or just starting your open-source journey, your contributions are what makes this repository a success. I am eager to continue building a strong collection of solutions, so feel free to jump in, contribute, and become part of the open-source community!
+Whether you are an experienced coder or just starting your open-source journey, your contributions helped make this repository a success. I am grateful for the efforts of all contributors who participated this year, enhancing the collection of solutions and supporting the competitive programming community!
 
-To all our contributors from **Hacktoberfest 2023**, thank you so much for your incredible work! Your efforts have made this repository a valuable resource for developers. 🙌
+To all the contributors from **Hacktoberfest 2023** and **Hacktoberfest 2024**, your dedication and problem-solving magic have made this repository a valuable resource for developers. 🙌
 
-For **Hacktoberfest 2024**, I am excited to welcome new contributors and look forward to your problem-solving magics 🚀. Let's continue making this repository a go-to place for competitive programming enthusiasts.
+While **Hacktoberfest 2024** has officially ended, I encourage to continue contributing and collaborating. The open-source community thrives on ongoing engagement, so feel free to jump in, contribute, and be part of the journey!
 
 Here Is The Contributing Guidelines: [Contributing Guidelines](https://github.com/JenilGajjar20/Competitive-Programming_problems/blob/master/CONTRIBUTING.md)
 
